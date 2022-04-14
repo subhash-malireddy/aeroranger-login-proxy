@@ -1,6 +1,8 @@
-# Getting Started with Fastify-CLI [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
-This project was bootstrapped with Fastify-CLI.
+# Subash Exercise - Aeroranger 
+This project was bootstrapped with Fastify-CLI. 
+Getting Started with Fastify-CLI [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
 
+***Please edit the .env.example to .env and add proper login endpoint for this app to worok as expected.***
 ## Available Scripts
 
 In the project directory, you can run:
@@ -8,7 +10,7 @@ In the project directory, you can run:
 ### `npm run dev`
 
 To start the app in dev mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Use [http://localhost:3000](http://localhost:3000) instead of the actual login url.
 
 ### `npm start`
 
